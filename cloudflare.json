@@ -5,7 +5,7 @@
     "version": "0.0.23",
     "account": 
     {
-	"callback_url": "http://countersback.herokuapp.com/api",
+	"callback_url": "http://serene-waters-1828.herokuapp.com",
 	"user_fields": ["email"]
     },
     "billing": 
