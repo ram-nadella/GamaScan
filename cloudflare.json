@@ -1,5 +1,5 @@
 {
-    "name": "GamaSec",
+    "name": "GamaSec 2",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
     "version": "0.0.23",
