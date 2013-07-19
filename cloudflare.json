@@ -51,26 +51,6 @@
 	   "Price": "Basic: $7.99<br/>Premium: $16.99<br/>Month/Domain",
            "Restrictions": "None", 	   
            "GamaSec": "<a href='http://www.gamasec.com/TermsOfUse.aspx' target='_blank'>Terms of service</a>"
-	},
-        "interface": [
-            {
-                "description": "Choose Protocol", 
-                "domain_request": true, 
-                "id": "protocol", 
-                "name": "Domain Protocol", 
-                "options": [
-                    {
-                        "label": "HTTP", 
-                        "selected": true, 
-                        "value": "80"
-                    }, 
-                    {
-                        "label": "HTTPS", 
-                        "value": "443"
-                    }
-                ], 
-                "type": "select"
-            }
-        ]
+	}
     }
 }
