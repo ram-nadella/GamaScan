@@ -2,10 +2,10 @@
     "name": "GamaSec 2",
     "description": "The GamaSec Application Vulnerability Scanner identifies application vulnerabilities (e.g. Cross Site Scripting (XSS), SQL injection, Code Inclusion, etc.) as well as site exposure risks.",
     "category": "security monitoring",
-    "version": "0.0.24",
+    "version": "0.0.25",
     "account": 
     {
-	"callback_url": "http://serene-waters-1828.herokuapp.com",
+	"callback_url": "http://dummy-app-endpoint.herokuapp.com/",
 	"user_fields": ["email"]
     },
     "billing": 
